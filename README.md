@@ -1,2 +1,4 @@
 # congenial-winner
-write by ivan
+```
+write by ivan only for study
+```
